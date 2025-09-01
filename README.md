@@ -10,13 +10,13 @@
 
 ## 🚀 Projects  
 
-- 💰 [**Personal Expense Tracker (Python + SQL)**](https://github.com/ayantikabardhan7012-glitch/GUI-based-Personal-Expense-Tracker-Python-SQL)  
+- 💰 [**Personal Expense Tracker (Python + SQL)**](https://github.com/ayantikabardhan7012-glitch/-GUI-based-Personal-Expense-Tracker-Python-SQL.git)  
   *Tkinter GUI with SQLite for managing expenses, featuring CRUD operations and modular design.*  
 
-- 🅿️ [**IoT Smart Parking System using RFID**](https://github.com/ayantikabardhan7012-glitch/IoT-Smart-Parking-System-Using-RFID)  
+- 🅿️ [**IoT Smart Parking System using RFID**](https://github.com/ayantikabardhan7012-glitch/IoT-Smart-Parking-System-Using-RFID.git)  
   *RFID, IR sensors, and NodeMCU ESP8266 integrated with Blynk IoT for smart parking management.*  
 
-- 🎤 [**Voice-Controlled IoT Device like Alexa**](https://github.com/ayantikabardhan7012-glitch/IoT-Voice-Controlled-Device)  
+- 🎤 [**Voice-Controlled IoT Device like Alexa**](https://github.com/ayantikabardhan7012-glitch/-IoT-Voice-Controlled-Device.git)  
   *Voice assistant built with SpeechRecognition, gTTS, and OpenAI API; integrated with IoT devices via MQTT/HTTP.*  
 
 ---
